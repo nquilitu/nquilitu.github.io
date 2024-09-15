@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nquilitu.github.io/sitemap.html.gz
+Sitemap: https://nquilitu.github.io/app/sitemap.html.gz
+Sitemap: https://nquilitu.github.io/assets/sitemap.html.gz
+Sitemap: https://nquilitu.github.io/css/sitemap.html.gz
+Sitemap: https://nquilitu.github.io/includes/sitemap.html.gz
+Sitemap: https://nquilitu.github.io/item/sitemap.html.gz
+Sitemap: https://nquilitu.github.io/src/sitemap.html.gz
